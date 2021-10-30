@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshatha Tilagar
-- 👀 I’m interested in Python Backend, Data Science
+- 👀 I’m interested in Python Backend, Computer Vision, Data Science
 - 🌱 I’m currently learning Deep Learning
 - 📫 Reach me at akshathatilagar@gmail.com
 - Connect with me at https://www.linkedin.com/in/akshatha-c-tilagar-aa702815b/
